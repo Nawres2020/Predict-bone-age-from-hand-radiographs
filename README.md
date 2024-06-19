@@ -1,4 +1,6 @@
 # Predict-bone-age-from-hand-radiographs
+[HASSEN_HAMROUNI_Bone_Age_Prediction.pdf](https://github.com/user-attachments/files/15900024/HASSEN_HAMROUNI_Bone_Age_Prediction.pdf)
+
 With the progress of medical technology, people
 need to extract the effective information contained in big biomedical
 data to promote the development of precision medicine.
@@ -52,3 +54,5 @@ to enhance accuracy and evaluate its prediction
 capabilities. Four distinct models will be trained and their
 performance will be analyzed and presented in the results
 section.
+
+
